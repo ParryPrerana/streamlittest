@@ -1,7 +1,5 @@
 import streamlit as st
 import os
-from streamlit.report_thread import get_report_ctx
-from streamlit.legacy_caching.hashing import _CodeHasher
 import pandas as pd
 import sqlite3
 import io
