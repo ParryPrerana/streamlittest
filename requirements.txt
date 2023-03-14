@@ -1,0 +1,6 @@
+azure-ai-formrecognizer
+azure-storage-blob
+streamlit-ace
+streamlit-aggrid
+xlsxwriter
+streamlit
